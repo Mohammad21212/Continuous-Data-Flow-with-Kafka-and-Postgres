@@ -15,8 +15,8 @@ This mini-project focuses on creating a continuous flow of information using sit
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Mohammad21212/Continuous-Data-Flow-with-Kafka-and-Postgres.git
+   cd Continuous-Data-Flow-with-Kafka-and-Postgres
    ```
 
 2. Start Kafka and Postgres services using Docker Compose:
